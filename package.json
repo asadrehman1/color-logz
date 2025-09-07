@@ -1,0 +1,32 @@
+{
+  "name": "color-logz",
+  "version": "1.0.0",
+  "description": "A library to colorize the console.log",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asadrehman1/color-logz.git"
+  },
+  "keywords": [
+    "color",
+    "console",
+    "log",
+    "logz",
+    "color-logz"
+  ],
+  "author": "Asad Rehman <asadrehman2321@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asadrehman1/color-logz/issues"
+  },
+  "homepage": "https://github.com/asadrehman1/color-logz#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  },
+  "files": ["lib/**/*"]
+}
