@@ -1,6 +1,6 @@
 {
   "name": "color-logz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library to colorize the console.log",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -28,5 +28,7 @@
   "devDependencies": {
     "typescript": "^5.9.2"
   },
-  "files": ["lib/**/*"]
+  "files": [
+    "lib/**/*"
+  ]
 }
